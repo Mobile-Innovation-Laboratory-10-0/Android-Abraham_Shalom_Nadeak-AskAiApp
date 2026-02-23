@@ -37,6 +37,7 @@ The app supports chat sessions, history management, authentication, and profile 
 ---
 Video Link : https://youtu.be/Yg5TbO47htE
 
+![APLIKASI APA NI BANG !!!](https://github.com/user-attachments/assets/10abe38c-61eb-4930-b97c-b58af18e7914)
 
 
 
