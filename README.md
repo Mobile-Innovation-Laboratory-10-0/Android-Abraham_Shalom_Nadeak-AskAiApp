@@ -1,7 +1,7 @@
 # 🤖 AskAi Application
 
 A modern Android chat application built with **Jetpack Compose**, **MVVM architecture**, and **Firebase**.  
-The app supports chat sessions, history management, authentication, and profile customization.
+The app supports chat sessions, history management, authentication, and profile customization. The 
 
 ---
 
