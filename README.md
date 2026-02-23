@@ -1,7 +1,7 @@
 # 🤖 AskAi Application
 
-A modern Android chat application built with **Jetpack Compose**, **MVVM architecture**, and **Firebase**.  
-The app supports chat sessions, history management, authentication, and profile customization. The 
+A modern Android AI chat application built with **Jetpack Compose**, **MVVM architecture**, and **Firebase** with **OpenRouter Model API**.  
+The app supports chat sessions, history management, authentication, and profile customization.
 
 ---
 
@@ -23,6 +23,8 @@ The app supports chat sessions, history management, authentication, and profile 
 <img width="398" height="878" alt="image" src="https://github.com/user-attachments/assets/69a3885a-e33a-47cb-b921-9761d8339169" />
 <img width="394" height="879" alt="image" src="https://github.com/user-attachments/assets/a65bb100-743c-4bbd-83d6-a508aa0d2cce" />
 
+---
+
 ## 📃 Step by step to run it
 1. Copy the repository link from this project
 <pre>https://github.com/LenstraMod/Android-Abraham_Shalom_Nadeak-AskAiApp.git</pre>
@@ -31,6 +33,9 @@ The app supports chat sessions, history management, authentication, and profile 
 <img width="424" height="325" alt="image" src="https://github.com/user-attachments/assets/664a0420-f4df-4c67-9a74-b152116fa770" />
 
 3. Wait until the cloning process is finished. Afterward, choose your android emulator and click run.
+
+---
+Video Link : https://youtu.be/Yg5TbO47htE
 
 
 
